@@ -20,8 +20,8 @@
 
 | Item | Link |
 |---|---|
-| Repositório | _a preencher_ |
-| Apresentação executiva (PPT/PDF) | _a preencher_ (cópia em `docs/`) |
+| Repositório | https://github.com/lguilherme09/Tech-Challenge-3-FIAP-.git |
+| Apresentação executiva (PPT/PDF) | [docs/Tech_Challenge_Fase3_Apresentacao.pptx](docs/Tech_Challenge_Fase3_Apresentacao.pptx) |
 
 ---
 
