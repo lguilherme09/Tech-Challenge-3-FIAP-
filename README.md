@@ -74,8 +74,6 @@ Kaggle (3 CSVs) ──► S3 landing/ ──Glue Job 01──► S3 bronze/ ─�
                                                                 └──────────► Material executivo (PPT/PDF)
 ```
 
-Diagrama completo e editável: `docs/arquitetura_aws.drawio` (abrir em [app.diagrams.net](https://app.diagrams.net)).
-
 | Camada | Conteúdo |
 |---|---|
 | **Landing** | CSVs originais, como baixados do Kaggle |
